@@ -1,0 +1,52 @@
+name: Sync iCal Feeds
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Alle 2 Stunden
+  workflow_dispatch:  # Manuelles Triggern erlauben
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Download iCal Files
+        run: |
+          echo "📅 Downloading iCal feeds from News---Aktuelles repository..."
+
+          # Base URL für das News---Aktuelles Repository
+          BASE_URL="https://raw.githubusercontent.com/jcdappen/News---Aktuelles/main"
+
+          # Liste der iCal-Dateien
+          FILES=("gottesdienst.ics" "kinder.ics" "senioren.ics" "jugend.ics" "sonstige.ics")
+
+          # Herunterladen jeder Datei
+          for file in "${FILES[@]}"; do
+            echo "Downloading $file..."
+            curl -f -L -o "$file" "$BASE_URL/$file" || echo "⚠️ Could not download $file (might not exist)"
+          done
+
+          echo "✅ iCal sync completed"
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add *.ics
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto-sync iCal feeds $(date +'%Y-%m-%d %H:%M')"
+            git push
+            echo "✅ Changes committed and pushed"
+          fi
