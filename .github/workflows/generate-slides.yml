@@ -1,0 +1,83 @@
+name: Generate Slides
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Täglich um 06:00 Uhr UTC
+  push:
+    paths:
+      - '*.ics'  # Triggert bei iCal-Änderungen
+      - 'src/**'
+  workflow_dispatch:  # Manuelles Triggern erlauben
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          echo "📦 Installing Python dependencies..."
+          pip install --upgrade pip
+          pip install -r src/requirements.txt
+
+      - name: Generate Slides
+        run: |
+          echo "🎬 Generating slides from iCal data..."
+          python src/generator.py
+          echo "✅ Slide generation completed"
+
+      - name: List Generated Slides
+        run: |
+          echo "📋 Generated slides:"
+          ls -lh slides/*.png 2>/dev/null || echo "No PNG slides generated yet"
+
+      - name: Commit Generated Slides
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add slides/*.png
+
+          if git diff --staged --quiet; then
+            echo "No new slides to commit"
+          else
+            SLIDE_COUNT=$(git diff --staged --name-only | wc -l)
+            git commit -m "🎬 Auto-generate slides: $SLIDE_COUNT slides ($(date +'%Y-%m-%d %H:%M'))"
+            git push
+            echo "✅ Slides committed and pushed to main"
+          fi
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/claude/church-slide-generator-1Eawn'
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: '🚀 Deploy slides (${{ github.sha }})'
