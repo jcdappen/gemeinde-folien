@@ -1,0 +1,5421 @@
+BEGIN:VCALENDAR
+PRODID:-//eluceo/ical//2.0/EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT1H
+X-WR-CALNAME:
+BEGIN:VEVENT
+UID:9524ac5c0cc5eb2dc0a9c69ca801e789@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20230808T082953Z
+SUMMARY:Kurzexerzitien
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250306
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f38df3445f4dc8e141657d134335886c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20230808T083013Z
+SUMMARY:Ultra-Kurzexerzitien
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250309
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:028c954224f81a9331000a69e9a6e1da@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20230808T083052Z
+SUMMARY:Kurzexerzitien
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250807
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:142657559af0b79df784a22540105dec@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20240605T081523Z
+SUMMARY:Gemeindefreizeit
+DESCRIPTION:
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260504
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:99c7981091a83757136415d425c07d62@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20240813T170415Z
+SUMMARY:FSQ Regio Frauenfreizeit
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250707
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e14c71f1e0a17ab489d2a0942c458f27@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20240813T170437Z
+SUMMARY:BDV in Frankfurt
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250517
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e8f8358e08e0ffb0dea3f067751f52@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20240813T170502Z
+SUMMARY:FSQ Regio Männerkonferenz
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250929
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:42d1665a3e913916cd817394c5c1561d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20240813T170525Z
+SUMMARY:FSQ Live
+DESCRIPTION:
+DTSTART;VALUE=DATE:20251109
+DTEND;VALUE=DATE:20251112
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:78e61680def9711bfa42f542e7a059ce@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20240906T091235Z
+SUMMARY:United Konferenz im Gospelhouse
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250706
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c0604fab7ba12a4b9ee713de59e02d8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250709T115922Z
+SUMMARY:Frauenfrühstück
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250315T083000Z
+DTEND:20250315T100000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c316174ed96d24baddfc45e84b43627d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250209T083000Z
+DTEND:20250209T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:81102218cd0fdced08b5c908724fb4c4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250216T083000Z
+DTEND:20250216T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc3251aed5d422ee09a5a01a9f53962@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250302T083000Z
+DTEND:20250302T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6d92454f598a8f4d33425c4c10720f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250309T083000Z
+DTEND:20250309T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e103ee9f66683faae813a467d4dfa31@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250316T083000Z
+DTEND:20250316T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ac3683328ad6d5e46107048ed5a68d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250323T083000Z
+DTEND:20250323T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0dd80d57a823cd737ef4ab8c95a7a5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250330T073000Z
+DTEND:20250330T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2e9014aaccf20b514ea11c9c480c6d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250406T073000Z
+DTEND:20250406T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:07f03f46bdbee8cf85be31e30dccfd65@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250413T073000Z
+DTEND:20250413T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9de38f89a62467ca0a24bf5ecff4f85@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250420T073000Z
+DTEND:20250420T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e723433bb58394fab2037eada318d094@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250427T073000Z
+DTEND:20250427T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:55fdd5b9099491a9899dc9eb9a252a73@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250504T073000Z
+DTEND:20250504T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0da29a336be408f279f69c3065f556f0@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250511T073000Z
+DTEND:20250511T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9861e8e5c7620673da88c42779a1472a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250518T073000Z
+DTEND:20250518T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b874795a2d5cd1a0038c4433f858168a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250525T073000Z
+DTEND:20250525T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e22095c78a2d30e48aff621fd0287c5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250601T073000Z
+DTEND:20250601T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:852aa7b5993ca119affa876ffac4e65f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250608T073000Z
+DTEND:20250608T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:23be7b6ac2f23c63e73421f3a4f004e2@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250615T073000Z
+DTEND:20250615T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a20aba49e9d8e54481e8b3944ba64f49@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250622T073000Z
+DTEND:20250622T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e2bf547882c0950932fc00dd0f69a5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250629T073000Z
+DTEND:20250629T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d8d3354411f71cd9da144ce92ed8c7a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250706T073000Z
+DTEND:20250706T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f857d4715e0186fcabfbb95fca0b2f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250713T073000Z
+DTEND:20250713T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b749559efb32230a0f1c9ee6eda59cdd@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250720T073000Z
+DTEND:20250720T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b66af8e2fd3430dcb69c07ff32debbb1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250803T073000Z
+DTEND:20250803T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8148c8ca41548d6bfc70c74c2086e60@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250810T073000Z
+DTEND:20250810T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf51aac41107bbe19b9208dc563cd6a4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250817T073000Z
+DTEND:20250817T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:614256d8e2e070178f794a17808aab71@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250824T073000Z
+DTEND:20250824T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c293c7ab7f2df765450875dd0fe8adb9@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250831T073000Z
+DTEND:20250831T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:476a887f0147030fd614f6625c6be4dc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250907T073000Z
+DTEND:20250907T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:88bddcfb513c441ff23aadf104ee7b8c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250914T073000Z
+DTEND:20250914T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:02965edb9b9c5da7e6b4b4075175b9d8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250921T073000Z
+DTEND:20250921T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c19345c33840b6b5a52fd412194eedc4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250928T073000Z
+DTEND:20250928T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:48453a3e2fca64fb2013472ec1e695ef@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251005T073000Z
+DTEND:20251005T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4baa14e9d229d00e71bf4b0538b6b4e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251012T073000Z
+DTEND:20251012T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3188897a033fd5552c4e45191e6f7a91@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251019T073000Z
+DTEND:20251019T074500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:90365cbec2cbe56b238c2c7ba3e2fbe1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251026T083000Z
+DTEND:20251026T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:97948cd2713312341ba2af8fc72a6d70@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251102T083000Z
+DTEND:20251102T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:85b3fe3cece85416f6192184e607b773@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251116T083000Z
+DTEND:20251116T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0e6943ef15b145fe5aa4236be965c9@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251123T083000Z
+DTEND:20251123T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff71e7e61a5b5678d5f6027538eb87e7@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251130T083000Z
+DTEND:20251130T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa16db5c38132a722900a62990080e5a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251207T083000Z
+DTEND:20251207T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:45b7823d662c20bf61c58b7810e90ca6@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251214T083000Z
+DTEND:20251214T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e569fb72307ffac928260d40d7cc3e2f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251221T083000Z
+DTEND:20251221T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c21cf3139e49ce45d2560b6f7ea81d8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085134Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251228T083000Z
+DTEND:20251228T084500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f90df93470b242dd4f7504341987e15@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250304T081235Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250210T143000Z
+DTEND:20250210T170000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:288bd6652ff152de7a7ffe3b7f76ae99@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250304T081235Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250217T143000Z
+DTEND:20250217T170000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:314813b34830330caecc064674bb771c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250210T180000Z
+DTEND:20250210T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d97beea0496cd09377990b2e2992b65c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250217T180000Z
+DTEND:20250217T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b46392a934869bb8ed75270107fbd60a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250224T180000Z
+DTEND:20250224T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a67992ea9ac551dfa62e9a47a4660a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250303T180000Z
+DTEND:20250303T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:285d9b7637c877ba4cf27f04f3c006f0@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250310T180000Z
+DTEND:20250310T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce564c6e4a8f817c1f71caa16205758@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250317T180000Z
+DTEND:20250317T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c80f0ef957b41b7aa8cbceb4a4548dcc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250324T180000Z
+DTEND:20250324T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6314040fbf3005024cea31943a15d1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250407T170000Z
+DTEND:20250407T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c50b1c8c027bd76100c4a11637c6d94c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250414T170000Z
+DTEND:20250414T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd49c28693c298c28e0650e1b2509b4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250428T170000Z
+DTEND:20250428T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:418d94f1f655167136ce1af28d4e3d10@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250505T170000Z
+DTEND:20250505T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9fbf1e43d9df908132f27221a9003387@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250512T170000Z
+DTEND:20250512T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b245d35530fda33217c888aec3f1f4f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250519T170000Z
+DTEND:20250519T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cf112b701cea815f31e74e60b6aba9a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250526T170000Z
+DTEND:20250526T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ed59c5e35f25066edf81e6387ce0501@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250602T170000Z
+DTEND:20250602T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d00f5153917b8c960b565048a4fadf17@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250616T170000Z
+DTEND:20250616T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:950a344f92d616fd4a628f45d8b5ddd3@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250623T170000Z
+DTEND:20250623T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:49ffbaa8318fe5db73340df2a390278e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250707T170000Z
+DTEND:20250707T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8853866b36756eb847604cbbdd24ad46@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250714T170000Z
+DTEND:20250714T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:403bc7781e620600ce8749a14b16e68c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250721T170000Z
+DTEND:20250721T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5a12527f8aa9e75be1aba33331909c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250728T170000Z
+DTEND:20250728T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba211a82a95eef717aadbf0056daa8fb@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250804T170000Z
+DTEND:20250804T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6eef3ae66742d25e92b2031cd0f351c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250811T170000Z
+DTEND:20250811T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b492987b2d176a5836d2dcdfa0a634@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250818T170000Z
+DTEND:20250818T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:51b3d2ed104dd89ad3e5b17e74acdd64@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250825T170000Z
+DTEND:20250825T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e429bc92d3e657e84c2d22683d991ee8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250901T170000Z
+DTEND:20250901T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:990907a6df7e7d247d1a53c0f211efea@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250908T170000Z
+DTEND:20250908T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3edb042b2a0e7d49e83558144dbc343@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250915T170000Z
+DTEND:20250915T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab7e44463a6c3f7f0ace9c0693df12d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250922T170000Z
+DTEND:20250922T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c031c611902c112598d4d8c5e9708ede@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251006T170000Z
+DTEND:20251006T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc567fac399a5d998b1196618f33b756@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251013T170000Z
+DTEND:20251013T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:26db00036f32fdbe46d1621b88fa8cff@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251020T170000Z
+DTEND:20251020T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e91229ccddc2cbaa6845d99a9f273ee@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251027T180000Z
+DTEND:20251027T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3613de8e94a5218fd756959f844e7aba@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251103T180000Z
+DTEND:20251103T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a90fd63040e76d786714c472e473143@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251110T180000Z
+DTEND:20251110T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:02396effa6aaf7bda06749fdf0ea853c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251117T180000Z
+DTEND:20251117T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:21926981d9c5c9c23e9322e68c66489e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251201T180000Z
+DTEND:20251201T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:674601e00c2fef79325fd4e1af5dff97@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251208T180000Z
+DTEND:20251208T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2857ce69b75c345eb074f14eb84974@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251215T180000Z
+DTEND:20251215T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:167f7b2fae5c4b8f692da15ecc08328a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251222T180000Z
+DTEND:20251222T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6970e88a26acdc668e25a663cfc03439@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T075650Z
+SUMMARY:Gebetsabend
+DESCRIPTION:Gemeinsam wollen wir Gott anbeten und für aktuelle sowie pers
+ önliche Anliegen beten.\n\nAnsprechpartner ist Harald Trapp
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl\, 
+ DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251229T180000Z
+DTEND:20251229T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7974c1d0e620a1a27f191ca4a0ecb2d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250212T083000Z
+DTEND:20250212T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:cece394d5753cd6efad30afd4f6dfcca@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250219T083000Z
+DTEND:20250219T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd7b12391519a7964ea26fb6c1a2ac2@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250226T083000Z
+DTEND:20250226T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:df90f70cbabfe6c99d8a2b4607a9f5a8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250305T083000Z
+DTEND:20250305T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c61cfd6e62a144d00d02673689dcea3@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250312T083000Z
+DTEND:20250312T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:68dc99120ae8a7eab00022870333d5ea@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250319T083000Z
+DTEND:20250319T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6118ddcf6ea48dd64c7c39adbfe32ef8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250326T083000Z
+DTEND:20250326T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:eacc3e3cee9b8219b62f2708cd5c4810@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250402T073000Z
+DTEND:20250402T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:80e398e3ddc548960ad0e73e43d52046@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250409T073000Z
+DTEND:20250409T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:da377be12456aaa2ec62524e1441caaf@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250416T073000Z
+DTEND:20250416T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec0d83d428632e372a9fc8b06ccab94b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250423T073000Z
+DTEND:20250423T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d147fc52d762df9b742ea168b4f59e54@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250430T073000Z
+DTEND:20250430T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8a0be8b9ade69a72cb612e3e119d34@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250507T073000Z
+DTEND:20250507T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a03b91f18c3798b5f0c6e1a97d2bdb@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250514T073000Z
+DTEND:20250514T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c13414fd955cdd659a353867a59c7845@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250521T073000Z
+DTEND:20250521T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b1956cc6c858bdfebb9a1396c79d97@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250528T073000Z
+DTEND:20250528T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:477508e0b51552e70ebc90eeb59c9a16@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250604T073000Z
+DTEND:20250604T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e9f0e82ea9bed9c56ed3871b819562@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250917T073000Z
+DTEND:20250917T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9530b1831ff0214920059beffbfa1cae@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250924T073000Z
+DTEND:20250924T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:59bcbe7ca43bfffbacb26c59e9f88199@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251001T073000Z
+DTEND:20251001T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:be902ba79aa5d043e4cb1d3851e68788@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251008T073000Z
+DTEND:20251008T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:4be058860e934744cc2d945c1c89f9da@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251015T073000Z
+DTEND:20251015T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:af460eb5addbeea7b05b8f5cf710f154@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251022T073000Z
+DTEND:20251022T090000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:31dfd76f771a14eb03df5188f4df4c4b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251029T083000Z
+DTEND:20251029T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:43d0d62825f7237483fb1f7e4c6276c0@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251105T083000Z
+DTEND:20251105T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:485ce2860cdc06ede5723f139722af0c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251112T083000Z
+DTEND:20251112T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3351ec9df750e144cc8639586266dfef@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251119T083000Z
+DTEND:20251119T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b528c118b767696bd72895aed2937c6d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251126T083000Z
+DTEND:20251126T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f20db4e2a3f7ec0ae9e952d15c0ac1ec@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251203T083000Z
+DTEND:20251203T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0382f0fe1ba1c7ae99bc1f9cbed9667c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251210T083000Z
+DTEND:20251210T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5f81d93baff66f193c86d11fcdd7b8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251217T083000Z
+DTEND:20251217T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:81c15b3923aa056834a3982fd1853591@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251224T083000Z
+DTEND:20251224T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a94c1adc09a75726d5693e4f7764dc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250603T082722Z
+SUMMARY:Mamatreff
+DESCRIPTION:Der Alltag als Mama kann wirklich herausfordernd sein.\nWie gut
+  tut es da\, sich mit anderen Müttern zu treffen\, sich auszutauschen und
+  mit den Kindern spielerische Gemeinschaft zu haben!
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251231T083000Z
+DTEND:20251231T100000Z
+SEQUENCE:14
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef670803c65669cda98e4725ffcb3b2e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T090938Z
+SUMMARY:FSQ Regionaler Gebetsabend in Rastatt
+DESCRIPTION:Brücke zum Leben Rastatt
+LOCATION:Brücke zum Leben rastatt\, Gutenbergstraße 3\, 76437\, Rastatt
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250630T173000Z
+DTEND:20250630T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a06b86199aea0e9a3a63066234d0e4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T090923Z
+SUMMARY:FSQ Regionaler Gebetsabend in Achern
+DESCRIPTION:Josuagemeinde Achern
+URL:https://jcga.de
+LOCATION:Josua Christengemeinde\, Rennwiese 1\, 77855\, Achern (Kernstadt)\
+ , DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250929T173000Z
+DTEND:20250929T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:cddda1f429762b7c1a05d5881c54035a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T091253Z
+SUMMARY:FSQ Regionaler Gebetsabend in Ottersweier
+DESCRIPTION:Arche Ottersweier
+URL:http://arche-ottersweier.de
+LOCATION:Arche Ottersweier\, Eisenbahnstraße 21\, 77833\, Ottersweier
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251124T183000Z
+DTEND:20251124T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:89454e1dd19ccbed2082309b3fefe199@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T092352Z
+SUMMARY:Gemeinderat Klausur Bereichsleiter
+DESCRIPTION:
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251009T173000Z
+DTEND:20251009T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:882c53557a51cfd4546c40d46d5e5896@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T092515Z
+SUMMARY:Konkorida Jahreshaupversammlung
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250328T183000Z
+DTEND:20250328T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:66869ea65710b7ad0bcdad03b3b69d25@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T092723Z
+SUMMARY:Bereichsleitertreffen
+DESCRIPTION:
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250716T173000Z
+DTEND:20250716T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae059e7e4fe16df1e9e5ee9badc45b6a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T093024Z
+SUMMARY:Konkordia Infoabend
+DESCRIPTION:
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251024T170000Z
+DTEND:20251024T193000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3844fa9e3b1b400e832572049e9094a5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T133525Z
+SUMMARY:Fasten & Gebetszeit
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250421
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f636ec5ad34e5bcd00a499dd22a4d79d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241211T091634Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250220T190000Z
+DTEND:20250220T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:934dbc218d8d610d74064ae5a9dd6539@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241211T091647Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250320T190000Z
+DTEND:20250320T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c852a436cf625317d2c2ae5d225d014b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241211T091701Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250410T180000Z
+DTEND:20250410T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b12580c98f1b041bcb971b0a5df3e152@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241211T091719Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250515T180000Z
+DTEND:20250515T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:69ca59ba5fb378f3ebaf2ea68d0e64e9@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250602T171731Z
+SUMMARY:Ökumenisches Stadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250612T180000Z
+DTEND:20250612T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:21582ab97b8f7e014d41bd4f74d0464b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241211T091750Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250717T180000Z
+DTEND:20250717T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c66a2a52ddc36280732dded866c5f48@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250805T202157Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:
+LOCATION:Ulrika Nisch Kapelle\, Eisenbahnstraße 1\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250821T180000Z
+DTEND:20250821T190000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba8c76df69996737217d68d00127063@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241211T091814Z
+SUMMARY:ÖkumenischesStadtgebet
+DESCRIPTION:Ulrika Nisch Kapelle
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250918T180000Z
+DTEND:20250918T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7ee8d9b852b1efe2a5426519927b1c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250211T080151Z
+SUMMARY:Gebet vor dem Gottesdienst
+DESCRIPTION:Herzliche Einladung den Gottesdienst mit gemeinsamem Gebet zu b
+ eginnen.
+LOCATION:GidK- Besprechungsraum\, Eisenbahnstraße 31\, 88715\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250223T083000Z
+DTEND:20250223T084500Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3c9d76ac88b002a9d2a048c60ed179@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250220T180000Z
+DTEND:20250220T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd40a762dfd50fa4a71697a29757a7dc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250306T180000Z
+DTEND:20250306T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:39a7eb486b66d2e16946e661b1438374@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250320T180000Z
+DTEND:20250320T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3da0a6286948f59079e469fc056d1226@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250403T170000Z
+DTEND:20250403T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:87ae3cced8309a13e68bb0107c29dc5f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250501T170000Z
+DTEND:20250501T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:936b7e264755668619e1efa9acbc5e46@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250213T170000Z
+DTEND:20250213T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a35eab5c72e4c0cf1d4348688da196a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250227T170000Z
+DTEND:20250227T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:72ba5d325ccbbcaa2239b1ce47169dfe@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250313T170000Z
+DTEND:20250313T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:168fb19b06fef5c76a02308471f7a6aa@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250327T170000Z
+DTEND:20250327T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:71b2b9a3b53a4d1547d93274491c248d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250410T160000Z
+DTEND:20250410T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:98971cb7510a4071572b5161c77775d1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250424T160000Z
+DTEND:20250424T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:937fc6a77f1f71f88de65088684e190b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250508T160000Z
+DTEND:20250508T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:acc51af0e5bcc80f4ee21084e34b739a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250522T160000Z
+DTEND:20250522T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd67022e2cf11d59659cf0f8fff74254@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250118T213111Z
+SUMMARY:Aufbau Frauenfrühstuck
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250314T160000Z
+DTEND:20250314T180000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:17cb20569faa3fa9f29c0dfa04e7c072@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250218T173000Z
+DTEND:20250218T183000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7657b29c6d88fd3488ec0f15dcee64@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250318T173000Z
+DTEND:20250318T183000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3df7313245d4f3164006b4657d2341cf@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250415T163000Z
+DTEND:20250415T173000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f0e50e1b0eaded9a34536e82d22c0a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250520T163000Z
+DTEND:20250520T173000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:28b4e496cde46fd73d6366941800b6de@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250617T163000Z
+DTEND:20250617T173000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:51bd6656d7c94891c64f64a4b2616e4d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250715T163000Z
+DTEND:20250715T173000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d856ec6f481d262af22dd41acb49b9d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250923T163000Z
+DTEND:20250923T173000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:392630bbc05e8ff3950d15c09f6a5d2d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251021T163000Z
+DTEND:20251021T173000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a732df6a3f258b28302a13f6182fa2e2@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T094923Z
+SUMMARY:Kontemplatives Gebet\, für Geübte - Online
+DESCRIPTION:Interessenten können gerne in den Email-Verteiler aufgenommen 
+ werden\, dies ist Notwendig um den Zoom-Link zu erhalten. \nVoraussetzung 
+ zur Teilnahme: \n-eigene kontemplative Gebetspraxis oder zumindest\n-Teiln
+ ahme an einem Einführungstag zum kontemplativen Gebet\n-ein ruhiger Raum 
+ und eine stabile Internetverbindung\nbei Fragen gerne Email an Sonja s.han
+ nemann@pastorale-ausbildung.de
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251216T173000Z
+DTEND:20251216T183000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:687e1ae91eab81ae2cf11c9b615d8d3d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250121T095728Z
+SUMMARY:Einführung-Kontemplatives Gebet
+DESCRIPTION:Ideal für alle\, die das kontemplative Gebet kennenlernen oder
+  ihre Kenntnisse darüber auffrischen möchten. Bitte per Email anmelden s
+ .hannemann@pastorale-ausbildung.de
+LOCATION:Brücke zum Leben\, Gutenbergstraße 3\, 76437\, Rastatt\, DE
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251122T083000Z
+DTEND:20251122T113000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed92e68694d87cf54fa1408d7217ceb8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250203T135636Z
+SUMMARY:Gemeinsames Mittagessen
+DESCRIPTION:Gemeinsames Mittagessen nach dem Gottesdienst.\nStil: Mitbring-
+ Buffet
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250323T110000Z
+DTEND:20250323T140000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:770275576737a4f8b3f66b405d476282@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250203T135636Z
+SUMMARY:Gemeinsames Mittagessen
+DESCRIPTION:Gemeinsames Mittagessen nach dem Gottesdienst.\nStil: Mitbring-
+ Buffet
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250427T100000Z
+DTEND:20250427T130000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:382db644ced8a4de5954ca768f1ea183@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250203T135636Z
+SUMMARY:Gemeinsames Mittagessen
+DESCRIPTION:Gemeinsames Mittagessen nach dem Gottesdienst.\nStil: Mitbring-
+ Buffet
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250525T100000Z
+DTEND:20250525T130000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c955d4ca3d0445cc0d166dcc8f0688b5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250203T135636Z
+SUMMARY:Gemeinsames Mittagessen
+DESCRIPTION:Gemeinsames Mittagessen nach dem Gottesdienst.\nStil: Mitbring-
+ Buffet
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250223T110000Z
+DTEND:20250223T140000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:341afb2b996a3455d468ae41778bee91@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250205T000842Z
+SUMMARY:Evangelisationsteamtreffen
+DESCRIPTION:Besprechen von evangelistischen Aktionen + Gebet für Evangelis
+ ation
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250310T183000Z
+DTEND:20250310T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:261477ac1b61ffb57d9e9f37816c97d0@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250211T081806Z
+SUMMARY:Bereichsleitertreffen
+DESCRIPTION:
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250219T183000Z
+DTEND:20250219T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7da676350aa1f8f0bfca23925e6797f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250224T210305Z
+SUMMARY:Mädchenparty Espresso und mehr...
+DESCRIPTION:Als Ergänzung zur Frauenparty gibt es eine Mädchenparty für 
+ Mädchen bis 12 maximal 13 Jahre. Wir machen uns schick und tanzen. Alle F
+ rauen ubd ältere Mädchen sind Mitarbeiter. Bitte bringt muffins oder Fin
+ gerfood mit.
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250306T130000Z
+DTEND:20250306T170000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1312740443e39c826c72b0ad3eced31a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250224T143000Z
+DTEND:20250224T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5d56677c12d8d381311ab7f90a776e6@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250310T143000Z
+DTEND:20250310T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:33f55f864de6f6861acbea88b5059528@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250317T143000Z
+DTEND:20250317T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8af3f578c70b33acf00497b09f072700@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250324T143000Z
+DTEND:20250324T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9086d15fc8f19e48c71334946d60f1ad@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250331T133000Z
+DTEND:20250331T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6430cdc00fdd3f93634b61aee08cc8ff@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250407T133000Z
+DTEND:20250407T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3245310ffb51c2e467b9e3fefc2eafc5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250428T133000Z
+DTEND:20250428T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf7f94ce8b95db8a91390cce4860290@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250505T133000Z
+DTEND:20250505T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc610000f3a1251dd144d9a8d87ce21@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250512T133000Z
+DTEND:20250512T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:48f2477fc77479e9120240acf22460cd@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250519T133000Z
+DTEND:20250519T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:4da5f06186c5a7fcc31eb3a99b74dbe2@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250526T133000Z
+DTEND:20250526T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4e0d72c9d788f0cae929e7b31f4de6@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250623T133000Z
+DTEND:20250623T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:10ce7bbe69b81d4b61c25fd38c211d02@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250630T133000Z
+DTEND:20250630T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcf0531fac8bc67d169c6d1c2a3b070@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250707T133000Z
+DTEND:20250707T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e79ca76a36ea996b79784cd267334321@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250714T133000Z
+DTEND:20250714T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:35787d5a5794a55863224b351a27a567@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250728T133000Z
+DTEND:20250728T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fcc717bac9094a41c64f3d1c9424f31@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250915T133000Z
+DTEND:20250915T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ae51bfa091c6cc3be181fd5508e5a1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250922T133000Z
+DTEND:20250922T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:571f3e440978dde120386cdcc896ce2d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250929T133000Z
+DTEND:20250929T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:4df6d65e0e03febcf40081127c78ca36@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251006T133000Z
+DTEND:20251006T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:afcb171351850a3b11caa06104fd5ee4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251013T133000Z
+DTEND:20251013T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4b9b395cf758f90f04286fa1bab66e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251020T133000Z
+DTEND:20251020T160000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:914371cac0eefb33b39f84f6bfd82d6d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251027T143000Z
+DTEND:20251027T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:18494f1cecda5a8fe036f9eea3802797@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251103T143000Z
+DTEND:20251103T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:83a550afb77f85c65bb126fe810238c5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251110T143000Z
+DTEND:20251110T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:132a63b5ed107c9c63da9bb1c219aee6@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251117T143000Z
+DTEND:20251117T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d7a8874c5f7f143cb651104e0c50637@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251124T143000Z
+DTEND:20251124T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:37f17a47817a620a59c8fc1576530d01@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251201T143000Z
+DTEND:20251201T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8304c60e078f08e56ed0c2da967de87a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251208T143000Z
+DTEND:20251208T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:26ee4dda88e6c65a38171c1444b2cf7e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251215T143000Z
+DTEND:20251215T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a969c1f851d39fd89cc8c50b21b8d03@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251222T143000Z
+DTEND:20251222T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:662b7224bfae4cc76fbfcbd0ba9757ba@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250729T070342Z
+SUMMARY:Espresso & mehr...
+DESCRIPTION:leckeren Espresso\, Latte Machiato\, eine Spieleecke und freies
+  W-Lan\, das alles gibt es zusätzlich zu netten Gesprächen und Unterhalt
+ ung
+URL:https://www.gemeinde-konkordia.de/kinder
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251229T143000Z
+DTEND:20251229T170000Z
+SEQUENCE:13
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:94aa78e7fc909a8cb5494e5cd0e13501@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250312T180353Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250417T170000Z
+DTEND:20250417T190000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d09c520f9ff1780794dc55cf716f4d90@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250325T172230Z
+SUMMARY:Kindermitarbeitertreffen
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250507T173000Z
+DTEND:20250507T193000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d3ceac90b0ec7139c68bcb611c6b495@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250401T085951Z
+SUMMARY:Zwetschgenfest
+DESCRIPTION:
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250916
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef68a6ec3d6a35261d7d54edaa51ab37@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250409T064506Z
+SUMMARY:Sederabend
+DESCRIPTION:Der messianische Sederabend behält die Grundstruktur der tradi
+ tionellen jüdischen Pessach Feier bei\, interpretiert jedoch die Symbole 
+ und Rituale im Licht des Glaubens an Jesus (Jeschua) als den Messias.\nDas
+  Abendessen findet als Mitbringbuffet statt.
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250417T173000Z
+DTEND:20250417T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:07db54cdc5276841883be6edc54f1c6d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250409T065059Z
+SUMMARY:Gebetsnacht
+DESCRIPTION:Folgende Gebetsblöcke\n21:30 Uhr Lobpreis\, Stille\, Reflektio
+ n über sieben Worte am Kreuz\n22:30 Uhr Gebetsspaziergang für die Region
+ .\n23:00 Uhr Persönliches\, prophetisches Gebet\n24:00 Uhr Lobpreiszeit\n
+ 01:00 Uhr Fürbitte für Generationen\n02:00 Uhr Fürbitte für verfolgte 
+ Christen\, Weltpolitik\n03:00 Uhr Bibelverse zu Erlösung und Heil\n04:00 
+ Uhr Fürbitte für unsere Stadt & Region\n05:00 Uhr Abschluss\n06:00 Uhr F
+ rühstück
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250417T193000Z
+DTEND:20250418T040000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:07fe255e1145a341f57628b1cf233c92@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250402T115322Z
+SUMMARY:Alpha Wochenende
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250411T170000Z
+DTEND:20250412T150000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c5b5a2df388f2fcad54d2ac9101de8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250410T135111Z
+SUMMARY:Austausch Gebet & Fasten Woche 2
+DESCRIPTION:Zoom - An Zoom-Meeting teilnehmen\nhttps://us02web.zoom.us/j/77
+ 81577815?pwd=NzdPQmk4WHpPc3oxVDhZY1FXSzkvQT09&omn=86246284301\n\nMeeting-I
+ D: 778 157 7815\nKenncode: 77815
+URL:https://us02web.zoom.us/j/7781577815?pwd=NzdPQmk4WHpPc3oxVDhZY1FXSzkvQT
+ 09&omn=86246284301
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250413T173000Z
+DTEND:20250413T181500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0884a2db816045bbee5b5c7247b2b5e5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250425T130116Z
+SUMMARY:Willkommens-Abend
+DESCRIPTION:bei Familie Simon - Herzlich laden wir dich zu unserem Willkomm
+ ensabend ein\, bei dem du unsere Gemeinde näher kennenlernen kannst. An d
+ iesem Abend stellen wir dir vor\, wofür wir als Gemeinde stehen\, welche 
+ Angebote und Gruppen es gibt und wie du Teil unserer Gemeinschaft werden k
+ annst. Wir freuen uns darauf\, dir zu zeigen\, welche nächsten Schritte m
+ öglich sind und möchten dir helfen\, deinen nächsten Schritt zu entdeck
+ en\, um Jesus ähnlicher zu werden - egal in welcher Glaubenssituation du 
+ dich gerade befindest.
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250625T170000Z
+DTEND:20250625T200000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:70bd12c15ef9689cbeb4765ad54ce560@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250508T152028Z
+SUMMARY:Infotreffen Hauskreis Achern
+DESCRIPTION:
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250511T093000Z
+DTEND:20250511T100000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec01eea57176c0dc29b957bd3faf523a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250515T170000Z
+DTEND:20250515T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c094ec052d094e47047ae4f7091d6415@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250509T091325Z
+SUMMARY:Alpha-Kurs
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250522T170000Z
+DTEND:20250522T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:114dfb1ca86d2fb1cedfb81e2e717edc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250513T090746Z
+SUMMARY:Konkordia Infoabend
+DESCRIPTION:
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250523T173000Z
+DTEND:20250523T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:81478f63d2b5cb3b7e7649afe7d7a3be@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250701T072732Z
+SUMMARY:Frauenparty Espresso und mehr.
+DESCRIPTION:Wir werden am Freitag\, den 11.7.25 eine Frauenparty feiern.\nV
+ orbereitet wird ab 15.00 Uhr\, bitte helft mit\, wenn ihr Zeit habt. \nAb 
+ 18.00 Uhr Party mit Tanzen (afghanische\, albanischen\, pakistanische\, de
+ utsche\,\n ukrainische afrikanische\, tadschikische\, kurdische Musik)\nBi
+ tte bringt Fingerfood mit.\nBitte lasst Eure Kinder zu Hause. \nMädchen a
+ b 12 Jahre dürfen mitkommen.\nAm Ende räumen wir alle zusammen auf und p
+ utzen gemeinsam. Bitte plant Euch Zeit dafür ein\, und sagt das auch Eure
+ n Freundinnen\, die kommen.
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250711T160000Z
+DTEND:20250711T200000Z
+SEQUENCE:3
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:19b483c9178dd18fed2491a457a98b6f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250710T131820Z
+SUMMARY:Gemeinde Sommerfest
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250726T130000Z
+DTEND:20250726T170000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e838a2f6855cce2dbc6265ed2c35131@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T112540Z
+SUMMARY:FSQ Regio Konferenz
+DESCRIPTION:Mit Ewald Zelmer
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260309
+LOCATION:Gemeinde in der Konkordia Evangelische Freikirche\, Eisenbahnstra
+ ße 31\, Hänferdorf\, 77815\, Bühl\, de
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cee59e3a8214a9049570063136be95ec@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250605T160000Z
+DTEND:20250605T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe31378e254605656ab1f295f829cd5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250612T160000Z
+DTEND:20250612T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d58678c32bc1e8108e9217b708203cd8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250619T160000Z
+DTEND:20250619T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:db52ffe8d89fe8da84633dd1c33517a7@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250626T160000Z
+DTEND:20250626T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:362254508e7ba4889be0f92cfca02f4f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250703T160000Z
+DTEND:20250703T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:890967aa40bd0aaf24a9b96c180a0808@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250710T160000Z
+DTEND:20250710T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:59d2b3304a41cab2f88a6bbaf28eee1c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250717T160000Z
+DTEND:20250717T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:12be28e691af657068041cf1d51c2b64@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250724T160000Z
+DTEND:20250724T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f824f6ffb2b0ac4cf24842b8f388a428@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250731T160000Z
+DTEND:20250731T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:24288325377e85e3b7f16fa9096ee7ca@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250807T160000Z
+DTEND:20250807T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c1d6ff9447ff252f8b77ab07b49eef@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250814T160000Z
+DTEND:20250814T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:3375b98d59ea8e14d53eb21deab90147@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250821T160000Z
+DTEND:20250821T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0480bbf8fbbdbc054cff0efe9fe1724f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250828T160000Z
+DTEND:20250828T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d55919b0719835a067c659215298485@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250904T160000Z
+DTEND:20250904T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0984fcf13ad11fe6eba1b5160e50df5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250911T160000Z
+DTEND:20250911T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7e03435ac25b809d0a6f55cee0b71d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250918T160000Z
+DTEND:20250918T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:541724e4bc392d3056687bd99f605aff@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250925T160000Z
+DTEND:20250925T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b7f877c8eb2e6cf189cf37bea88729@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251002T160000Z
+DTEND:20251002T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9809f929723451560e8fb5de6e99b46d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251009T160000Z
+DTEND:20251009T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8822fa3761030ea0791332a3fb2b5546@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251016T160000Z
+DTEND:20251016T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c26907caf92c63f6f8000c260599f020@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251023T160000Z
+DTEND:20251023T180000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1719c8b93fe9256dca77cc641eacfdad@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251030T170000Z
+DTEND:20251030T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5af19ae895e6cb3b7b099f309c357a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251106T170000Z
+DTEND:20251106T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd490dff55bc74c9d31feb8936cda984@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251113T170000Z
+DTEND:20251113T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:46689a89eb30d109ffc0fd444e681c2e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251120T170000Z
+DTEND:20251120T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:38f43308bef574167f4230993efec804@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251127T170000Z
+DTEND:20251127T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:08242eaa351c8e1d3d06c325dbe97d09@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251204T170000Z
+DTEND:20251204T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:fda89e6136264afcd41b8eb47349215c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251211T170000Z
+DTEND:20251211T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:35ddd06f16c503e041f9f163f7eb2fb4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251218T170000Z
+DTEND:20251218T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a24a6b9e491dde94bd5eeffbeb07f215@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250605T145449Z
+SUMMARY:Alpha Jünger
+DESCRIPTION:Jesus kennenlernen und Leben teilen - Gruppe von leidenschaftli
+ chen Startern im Glauben teilen Leben und lernen Jesus immer besser kennen
+ .
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251225T170000Z
+DTEND:20251225T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd90805c8406fda3f507ea768809ef5d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250709T120120Z
+SUMMARY:Frauenfrühstuck
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251018T073000Z
+DTEND:20251018T110000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b65befab0fad81216e53462978b4e0b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250622T131733Z
+SUMMARY:Aufbau für Frauenfrühstuck
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251017T150000Z
+DTEND:20251017T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8a3c72d7b020f18cd23e0da2c84583@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250624T200006Z
+SUMMARY:JVA / Gebetsspaziergang
+DESCRIPTION:Für unseren Dienst in der JVA Bühl freuen wir uns über Gebet
+ sunterstützung. Es wird nun auch ein Gebetsspaziergang um den Straßenblo
+ ck der JVA geben - weitere Infos folgen im Gottesdienst.
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250703T120000Z
+DTEND:20250703T140000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:00a528cfc40c5d030ffbc44d4c76552a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250626T104414Z
+SUMMARY:Seminar Jüngerschaftsbegleiter
+DESCRIPTION:Anmeldung erforderlich
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251001T170000Z
+DTEND:20251001T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b12065232774508eb4d743653584e8d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250626T104414Z
+SUMMARY:Seminar Jüngerschaftsbegleiter
+DESCRIPTION:Anmeldung erforderlich
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250924T170000Z
+DTEND:20250924T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c77ddb1fd1533bfa4e4001b29eda8650@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250626T104414Z
+SUMMARY:Seminar Jüngerschaftsbegleiter
+DESCRIPTION:Anmeldung erforderlich
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250917T170000Z
+DTEND:20250917T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e26b611b4ec69c8fd89f785fe946059@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250709T094319Z
+SUMMARY:Informationen zur Taufe
+DESCRIPTION:Liebe Freunde\,\nhiermit lade ich euch herzlich zu unserem Tauf
+ ino Abend ein!\n\nWann: Mittwoch\, 23. Juli 2025 um 20:00 Uhr\nWo: Zoom \n
+ \nDieser Abend ist gedacht für alle\, die Fragen haben\, noch nicht entsc
+ hlossen sind oder sich einfach mal informieren möchten. Freut euch auf ei
+ nen entspannten Online-Abend mit netten Gesprächen und einem schönen Mit
+ einander.\n\nIch freue mich auf euer Kommen!
+URL:https://us02web.zoom.us/j/7781577815?pwd=NzdPQmk4WHpPc3oxVDhZY1FXSzkvQT
+ 09&omn=81302553894
+LOCATION:Zoom - Online
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250723T180000Z
+DTEND:20250723T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7599bf19b503284ff349629fbf8e386@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T122030Z
+SUMMARY:Lobpreis im Stadtgarten
+DESCRIPTION:Zwetschgenfest - Wir laden euch herzlich zu unserem Lobpreis im
+  Stadtgarten am Samstag um 14:00 Uhr ein. Lasst uns gemeinsam unter freiem
+  Himmel Gott anbeten und seine Herrlichkeit feiern. Es wird ein gesegneter
+  Nachmittag voller Musik\, Gemeinschaft und Gottes Gegenwart. Kommt einfac
+ h vorbei und bringt gerne Familie und Freunde mit!
+LOCATION:Stadtgarten  Bühl\, Eisenbahnstraße 7\, Bühl\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250913T120000Z
+DTEND:20250913T124500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:94ea54824082c096d58032a1c9d8d423@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T122220Z
+SUMMARY:Zwetschgenfest Umzug
+DESCRIPTION:Das traditionelle Bühler Zwetschgenfest steht vor der Tür und
+  wir laden euch herzlich ein\, gemeinsam am festlichen Umzug teilzunehmen.
+  Es ist eine wunderbare Gelegenheit\, unsere Gemeinschaft zu zeigen und zu
+ sammen mit unseren Nachbarn zu feiern. Bringt gerne eure Familie mit – f
+ ür Jung und Alt wird es ein fröhliches Erlebnis. Kommt einfach vorbei un
+ d lasst uns gemeinsam einen unvergesslichen Tag erleben!\n\nTreffpunkt am 
+ Uhu Parkplatz in Bühl
+LOCATION:Uhu parkplatz\, Friedhofweg 1\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250914T115000Z
+DTEND:20250914T144500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd06fbe2c5647ef02bdb771a7daa591@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T122653Z
+SUMMARY:Spiel & Spaß
+DESCRIPTION:Zwetschgenfest - Wir laden euch herzlich zu "Spiel und Spaß vo
+ r unserer Haustür" ein - eine tolle Gelegenheit\, den Menschen in Bühl u
+ nsere Gebäude zur Verfügung zu stellen und gemeinsam Zeit zu verbringen.
+  Während des Zwetschgenfestes wollen wir das Fest genießen\, Menschen au
+ f den Glauben ansprechen und für unsere Stadt da sein. Unser Motto: "Gott
+  hat dich gewählt" - lasst uns diese frohe Botschaft mit unseren Mitmensc
+ hen teilen. Kommt vorbei und seid Teil dieser besonderen Gemeinschaftsakti
+ on!
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250913T140000Z
+DTEND:20250913T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d11b843e443b895bf2539cf1ba33b587@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T122653Z
+SUMMARY:Spiel & Spaß
+DESCRIPTION:Zwetschgenfest - Wir laden euch herzlich zu "Spiel und Spaß vo
+ r unserer Haustür" ein - eine tolle Gelegenheit\, den Menschen in Bühl u
+ nsere Gebäude zur Verfügung zu stellen und gemeinsam Zeit zu verbringen.
+  Während des Zwetschgenfestes wollen wir das Fest genießen\, Menschen au
+ f den Glauben ansprechen und für unsere Stadt da sein. Unser Motto: "Gott
+  hat dich gewählt" - lasst uns diese frohe Botschaft mit unseren Mitmensc
+ hen teilen. Kommt vorbei und seid Teil dieser besonderen Gemeinschaftsakti
+ on!
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250914T140000Z
+DTEND:20250914T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:02c1e441b69e4e3e05db0255ac0dd7e1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T122653Z
+SUMMARY:Spiel & Spaß
+DESCRIPTION:Zwetschgenfest - Wir laden euch herzlich zu "Spiel und Spaß vo
+ r unserer Haustür" ein - eine tolle Gelegenheit\, den Menschen in Bühl u
+ nsere Gebäude zur Verfügung zu stellen und gemeinsam Zeit zu verbringen.
+  Während des Zwetschgenfestes wollen wir das Fest genießen\, Menschen au
+ f den Glauben ansprechen und für unsere Stadt da sein. Unser Motto: "Gott
+  hat dich gewählt" - lasst uns diese frohe Botschaft mit unseren Mitmensc
+ hen teilen. Kommt vorbei und seid Teil dieser besonderen Gemeinschaftsakti
+ on!
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250915T140000Z
+DTEND:20250915T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa4f9ae5144fb7984a60936a4598ebb@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T122653Z
+SUMMARY:Spiel & Spaß
+DESCRIPTION:Zwetschgenfest - Wir laden euch herzlich zu "Spiel und Spaß vo
+ r unserer Haustür" ein - eine tolle Gelegenheit\, den Menschen in Bühl u
+ nsere Gebäude zur Verfügung zu stellen und gemeinsam Zeit zu verbringen.
+  Während des Zwetschgenfestes wollen wir das Fest genießen\, Menschen au
+ f den Glauben ansprechen und für unsere Stadt da sein. Unser Motto: "Gott
+  hat dich gewählt" - lasst uns diese frohe Botschaft mit unseren Mitmensc
+ hen teilen. Kommt vorbei und seid Teil dieser besonderen Gemeinschaftsakti
+ on!
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250912T140000Z
+DTEND:20250912T180000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:551e49d3c5e9a873a6a550a86a5f0c84@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T160628Z
+SUMMARY:Seminartag Identität\, Körper\, Kultur und Sexualität
+DESCRIPTION:FSQ Region Süd West
+DTSTART;VALUE=DATE:20260124
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd759044318dd7beb06d326d71ad9f2@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T160724Z
+SUMMARY:Tag der Inspiration
+DESCRIPTION:
+DTSTART;VALUE=DATE:20261018
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5db53d5fc43a9aa22a2cbd4882d73a8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T160751Z
+SUMMARY:FSQ Regio Konferenz
+DESCRIPTION:
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270315
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d4faf7b71269958119f52a340cd121c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T160833Z
+SUMMARY:Tag der Inspiration
+DESCRIPTION:
+DTSTART;VALUE=DATE:20271024
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe95b3684dc7b7a003ff89e25ddf03bd@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T160833Z
+SUMMARY:Tag der Inspiration
+DESCRIPTION:
+DTSTART;VALUE=DATE:20271017
+ORGANIZER:mailto:noreply@churchtools.de
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c7e336838878979801a4603ac4c03@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250805T093536Z
+SUMMARY:Zwetschgenfest Putzaktion
+DESCRIPTION:Am Zwetschgenfest erwarten wir Gäste. Deswegen reinigen wir di
+ e Konkordia. Infos bekommst du bei Brigitte Geiselhart.
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250911T073000Z
+DTEND:20250911T100000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3677985a690dd79c83a76b7f25b710@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250209T090000Z
+DTEND:20250209T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a778e56bd2cc4493677d7eb6d1b30f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250216T090000Z
+DTEND:20250216T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d169a73088647d546750672e5a7cb7a6@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250302T090000Z
+DTEND:20250302T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:69af55958eedca1aacef13b850ba0819@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250309T090000Z
+DTEND:20250309T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b695dc43c459698cbc76c2d81c9951@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250316T090000Z
+DTEND:20250316T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7909d763f5efb869e64b96beb2cde90@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250323T090000Z
+DTEND:20250323T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7fa9589b8af51bf2c7f53f4a487768e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250330T080000Z
+DTEND:20250330T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:42f5feb13fc5d3fca600f96c07cb6437@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250406T080000Z
+DTEND:20250406T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb5079cf3e9a3bc39d7cc5ee6d6b5ea@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250413T080000Z
+DTEND:20250413T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:29429dd611b3a036c2350fe1e75111d1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250420T080000Z
+DTEND:20250420T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d11c15d7f3255cdf0ad9e213e97d27f1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250427T080000Z
+DTEND:20250427T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:477de761cd882511ce0b13ec9760a7ed@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250504T080000Z
+DTEND:20250504T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d052ac95cee709406f0d8d2811a2a66@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250511T080000Z
+DTEND:20250511T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d06a6971da2547755a1e42a4281b5795@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250518T080000Z
+DTEND:20250518T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:946ff82648dce17c6aebba04d6ca559d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250525T080000Z
+DTEND:20250525T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:86340e4cbe5855d073640ac576eb0aff@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250601T080000Z
+DTEND:20250601T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea84450029b5bc42996865f45c07d25@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250608T080000Z
+DTEND:20250608T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:617159d3fe4ea4040a9d8aa6200745b9@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250615T080000Z
+DTEND:20250615T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bcc6da3182b13640e786bef00ea7f89@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250622T080000Z
+DTEND:20250622T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8af1edeab044c0d5adb455a8f23b2144@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250629T080000Z
+DTEND:20250629T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:46dcd8c8c6d9c47e2ea0ed5c30184bcb@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250706T080000Z
+DTEND:20250706T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a42a6667134aeb8ea19fbecbf7f7da2b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250713T080000Z
+DTEND:20250713T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:594de9e73b89d8e0da0cee1e3a71009d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250720T080000Z
+DTEND:20250720T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:672643b39c441dde5caa300a1eb08c3a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250803T080000Z
+DTEND:20250803T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d13eceec2e195df69ee05494c552463d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250810T080000Z
+DTEND:20250810T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0bdf71f3da79d547ab33ee754d7a412e@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250817T080000Z
+DTEND:20250817T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:17bf71ae5ad96e3864202095e359a152@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250824T080000Z
+DTEND:20250824T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0200937d7dad0c8829e6eb4ffff79603@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250831T080000Z
+DTEND:20250831T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3e43e1e6caade28e1a152d9df3eff8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250907T080000Z
+DTEND:20250907T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:713094013c2d14fe4b3db74d9ed2b733@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250928T080000Z
+DTEND:20250928T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d377f5bab42b279cc5820cb5af56520@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251005T080000Z
+DTEND:20251005T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bba6a75edca0cfd53adb77d39b7f8d9@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251012T080000Z
+DTEND:20251012T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:147c8af15b988dbf498b5e53cc5c8e34@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251026T090000Z
+DTEND:20251026T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a27bb0c710922d8661f2e5c84889be6b@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251102T090000Z
+DTEND:20251102T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:400ea1f832850545b78beb6771924aeb@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251116T090000Z
+DTEND:20251116T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5323ae55c1ac5873901188383fbc9af1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251123T090000Z
+DTEND:20251123T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab61e62ccfbc57f05322e0238848e313@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251130T090000Z
+DTEND:20251130T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:670d3b690a41aa982ba5213a08c86549@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251207T090000Z
+DTEND:20251207T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8da4bfd7f637ae35fb8a0480c6124821@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251214T090000Z
+DTEND:20251214T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:cdadd45a389a63053e3cd48b2d8b9e0f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251221T090000Z
+DTEND:20251221T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ac4a84801b9c4da3d757bd4233bf06@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250630T085125Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251228T090000Z
+DTEND:20251228T103000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:71ee65bdf8c8b2f1d04071acd906056d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T091557Z
+SUMMARY:Tag der Inspiration
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251019T080000Z
+DTEND:20251019T100000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c5cba361192f29805f5b97f9afde688@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T084306Z
+SUMMARY:Gottesdienst am Karfreitag
+DESCRIPTION:mit Kinderkirche und Livestream - Karfreitag Gottesdienst.\nAls
+  Kirche feiern wir Gott\, beten ihn an\, hören eine herausfordernde Predi
+ gt und haben eine liebevolle Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250418T080000Z
+DTEND:20250418T093000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:74ad0e2e55926dd40e28eecd3becd166@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T134705Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Livestream - Der Gottesdienst ist unser Highlight der Woche
+ ! \nAls Kirche feiern wir Gott\, beten ihn an\, hören eine herausfordernd
+ e Predigt und haben eine liebevolle Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251108T183000Z
+DTEND:20251108T200000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6785d35402e7c9e64db239d06930f183@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T134921Z
+SUMMARY:Familien Gottesdienst am Heiligabend
+DESCRIPTION:mit  Livestream - Der Gottesdienst ist unser Highlight der Woch
+ e! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, beten ihn an\, h
+ ören eine herausfordernde Predigt und haben eine liebevolle Zeit der Geme
+ inschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251224T150000Z
+DTEND:20251224T161500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:2dbd3766a861e76adc2f1beaeac99fa8@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T140123Z
+SUMMARY:Ökumenischer Gottesdienst zum Zwetschgenfest
+DESCRIPTION:In St. Peter und Paul\, Bühl
+LOCATION:St. Peter und Paul\, Bühl\, Hauptstraße 45\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250914T080000Z
+DTEND:20250914T090000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a9e8dfa3b97e6729ed0e31c532c472@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241126T140356Z
+SUMMARY:Familien Gottesdienst zum Schulanfang
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250921T080000Z
+DTEND:20250921T093000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:18d084d0dfd8036d36c386dba0b6f9dc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250114T075318Z
+SUMMARY:Gottesdienst
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! Wir lieben den Sonntag!\nAls Kirche feiern wir Gott\, b
+ eten ihn an\, hören eine herausfordernde Predigt und haben eine liebevoll
+ e Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250223T090000Z
+DTEND:20250223T103000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1927fbe4823babaa29623cc1946f9bd4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250219T075638Z
+SUMMARY:FSQ Regionalkonferenz
+DESCRIPTION:mit Livestream - Der Gottesdienst ist unser Highlight der Woche
+ ! \nAls Kirche feiern wir Gott\, beten ihn an\, hören eine herausfordernd
+ e Predigt und haben eine liebevolle Zeit der Gemeinschaft miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250404T173000Z
+DTEND:20250404T190000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec099b1f8a28713b057b7df78b685eb6@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250219T081136Z
+SUMMARY:FSQ Regionalkonferenz
+DESCRIPTION:mit Kinderkirche und Livestream - Der Gottesdienst ist unser Hi
+ ghlight der Woche! \nAls Kirche feiern wir Gott\, beten ihn an\, hören ei
+ ne herausfordernde Predigt und haben eine liebevolle Zeit der Gemeinschaft
+  miteinander.
+URL:https://www.gemeinde-konkordia.de/gottesdienst
+LOCATION:Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250405T080000Z
+DTEND:20250405T110000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b928192119f3edb343ae82e3ee84adf@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250219T081542Z
+SUMMARY:FSQ Regionalkonferenz
+DESCRIPTION:in der Arche Ottersweier - Lobpreisend in der Arche Ottersweier
+ .
+URL:http://arche-ottersweier.de
+LOCATION:Arche Ottersweier\, Eisenbahnstraße 21\, 77833\, Ottersweier
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250405T170000Z
+DTEND:20250405T190000Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfc199d9aceb500e93bf640a4178e16@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250304T084417Z
+SUMMARY:Gottesdienst
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250406T080000Z
+DTEND:20250406T093000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:64a8548d78ce5fdd22127635f5fc5d09@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250304T084437Z
+SUMMARY:Gottesdienst
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250413T080000Z
+DTEND:20250413T093000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c44b36515dca9e760100d163e5fff047@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T160419Z
+SUMMARY:Tag der Inspiration Teil 2
+DESCRIPTION:FSQ Region Südwest
+LOCATION:Gemeinde in der Konkordia\, Eisenbahnstraße 31\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251019T113000Z
+DTEND:20251019T130000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7811af85d7a3951bcc2a66a10edcdf32@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T154216Z
+SUMMARY:Jugendabend
+DESCRIPTION:Wir glauben\, dass der Heilige Geist gerade unter jungen Leuten
+  in der Region Mittel Baden viel bewegen will. Wir wollen gemeinsam in die
+ ser Generation Einheit und Entschlossenheit demonstrieren.\nUnsere Jugendg
+ ottesdienste sind  jung\, wild und von tiefen und prägenden Zeiten gekenn
+ zeichnet. Dabei ist sie voll von Gott\, Spaß und Action – und natürlic
+ h dürfen deine Freunde\, Klassenkameraden und Kollegen nicht fehlen.
+URL:https://www.gemeinde-konkordia.de/jugend
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250301T173000Z
+DTEND:20250301T200000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b64333b28a9cd8b65c077734061442d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T154216Z
+SUMMARY:Jugendabend
+DESCRIPTION:Wir glauben\, dass der Heilige Geist gerade unter jungen Leuten
+  in der Region Mittel Baden viel bewegen will. Wir wollen gemeinsam in die
+ ser Generation Einheit und Entschlossenheit demonstrieren.\nUnsere Jugendg
+ ottesdienste sind  jung\, wild und von tiefen und prägenden Zeiten gekenn
+ zeichnet. Dabei ist sie voll von Gott\, Spaß und Action – und natürlic
+ h dürfen deine Freunde\, Klassenkameraden und Kollegen nicht fehlen.
+URL:https://www.gemeinde-konkordia.de/jugend
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250315T173000Z
+DTEND:20250315T200000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b8af99bcbfc5bc7c76fd9466090c26@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T154216Z
+SUMMARY:Jugendabend
+DESCRIPTION:Wir glauben\, dass der Heilige Geist gerade unter jungen Leuten
+  in der Region Mittel Baden viel bewegen will. Wir wollen gemeinsam in die
+ ser Generation Einheit und Entschlossenheit demonstrieren.\nUnsere Jugendg
+ ottesdienste sind  jung\, wild und von tiefen und prägenden Zeiten gekenn
+ zeichnet. Dabei ist sie voll von Gott\, Spaß und Action – und natürlic
+ h dürfen deine Freunde\, Klassenkameraden und Kollegen nicht fehlen.
+URL:https://www.gemeinde-konkordia.de/jugend
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250405T163000Z
+DTEND:20250405T190000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:75e21d6894fd519f5183306894391986@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T154216Z
+SUMMARY:Jugendabend
+DESCRIPTION:Wir glauben\, dass der Heilige Geist gerade unter jungen Leuten
+  in der Region Mittel Baden viel bewegen will. Wir wollen gemeinsam in die
+ ser Generation Einheit und Entschlossenheit demonstrieren.\nUnsere Jugendg
+ ottesdienste sind  jung\, wild und von tiefen und prägenden Zeiten gekenn
+ zeichnet. Dabei ist sie voll von Gott\, Spaß und Action – und natürlic
+ h dürfen deine Freunde\, Klassenkameraden und Kollegen nicht fehlen.
+URL:https://www.gemeinde-konkordia.de/jugend
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250412T163000Z
+DTEND:20250412T190000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc46f4cc88055f0719dba2427b0743a@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T154216Z
+SUMMARY:Jugendabend
+DESCRIPTION:Wir glauben\, dass der Heilige Geist gerade unter jungen Leuten
+  in der Region Mittel Baden viel bewegen will. Wir wollen gemeinsam in die
+ ser Generation Einheit und Entschlossenheit demonstrieren.\nUnsere Jugendg
+ ottesdienste sind  jung\, wild und von tiefen und prägenden Zeiten gekenn
+ zeichnet. Dabei ist sie voll von Gott\, Spaß und Action – und natürlic
+ h dürfen deine Freunde\, Klassenkameraden und Kollegen nicht fehlen.
+URL:https://www.gemeinde-konkordia.de/jugend
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250628T163000Z
+DTEND:20250628T190000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7473179429f0d2196de877a63cf96ce@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250722T154216Z
+SUMMARY:Jugendabend
+DESCRIPTION:Wir glauben\, dass der Heilige Geist gerade unter jungen Leuten
+  in der Region Mittel Baden viel bewegen will. Wir wollen gemeinsam in die
+ ser Generation Einheit und Entschlossenheit demonstrieren.\nUnsere Jugendg
+ ottesdienste sind  jung\, wild und von tiefen und prägenden Zeiten gekenn
+ zeichnet. Dabei ist sie voll von Gott\, Spaß und Action – und natürlic
+ h dürfen deine Freunde\, Klassenkameraden und Kollegen nicht fehlen.
+URL:https://www.gemeinde-konkordia.de/jugend
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250712T163000Z
+DTEND:20250712T190000Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2f8454934b121187f2049c423af1a7@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241128T160455Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250305T140000Z
+DTEND:20250305T144500Z
+SEQUENCE:4
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe3f43363f0b380c8528019c06c75f1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241128T160431Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250219T140000Z
+DTEND:20250219T144500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:28e78050607433a807eec8826f7f60b0@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241128T160511Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250319T140000Z
+DTEND:20250319T144500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:93b19dfd185d87b7cd2d97efad920c6f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20241128T160548Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250402T130000Z
+DTEND:20250402T134500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4977cc80edfd11b692c4b66054afbb1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250402T080214Z
+SUMMARY:kreative Gebetszeit mit/ für Kinder
+DESCRIPTION:für Kinder ab Grundschulalter
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250417T140000Z
+DTEND:20250417T150000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:bfbd6c391b94f690bed2d1c3ca4d575d@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122211Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+LOCATION:Konkordia\, Eisenbahnstraße 31\, 77815\, Bühl
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250430T130000Z
+DTEND:20250430T134500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ed380bd96f283c312c18e66a08ef9c@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250513T153350Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250514T133000Z
+DTEND:20250514T141500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:24e0bde317d9b5b2cb753d6b5c38a6a5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250513T153421Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250528T133000Z
+DTEND:20250528T141500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a8bb7695d8a9e7737f156d919186247@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250513T153625Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250625T133000Z
+DTEND:20250625T141500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:82c977fd9ab1becf6f79b759df3ca784@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250513T153706Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250702T133000Z
+DTEND:20250702T141500Z
+SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f786b8e75390fc25849e1f9a6f3db1a1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250710T123209Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250709T133000Z
+DTEND:20250709T141500Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8efd1fcf20a082a2089c5e16ef66e50@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250710T123227Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250723T133000Z
+DTEND:20250723T141500Z
+SEQUENCE:2
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:84e14306bd86b014004a6d78148eab42@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122545Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250917T130000Z
+DTEND:20250917T134500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:21f8057b71cd51d2e95fbd2b8392f5db@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122559Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251001T130000Z
+DTEND:20251001T134500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:48d688647fb787048a81d8bcab84912f@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122616Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251015T130000Z
+DTEND:20251015T134500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:2523b35da4033e55fc36c5ff1dd9cae0@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122635Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251105T140000Z
+DTEND:20251105T144500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff352735ef5a570c167bbbd3e0a1dc04@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122648Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251119T140000Z
+DTEND:20251119T144500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:70ff64bf27896e0d97e661474b488cdc@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122705Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251203T140000Z
+DTEND:20251203T144500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1a3a220e723d1373af39643918aa30@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250403T122713Z
+SUMMARY:Singkreis für kleine Kinder
+DESCRIPTION:
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251217T140000Z
+DTEND:20251217T144500Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7e6d73021b0406a5d484a33ed2d2566@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250320T140000Z
+DTEND:20250320T153000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:f418e2746c5e3369ffaf5ba17eab6a54@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250417T130000Z
+DTEND:20250417T143000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b45d70be61a43836088fb4da1184664@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250508T130000Z
+DTEND:20250508T143000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:03fe9a3ec23b911d8f150515cafac2d5@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250605T130000Z
+DTEND:20250605T143000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:6de65d4c31b3f366883b7c1543e408fe@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250227T140000Z
+DTEND:20250227T153000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d55ad2f18f5389aece63346a7b1a543@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250911T130000Z
+DTEND:20250911T143000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:0dae1eb309ecda88cf155b3e04ff46d4@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251002T130000Z
+DTEND:20251002T143000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e6e6ad329f699f950ccdcfc2960207@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251106T140000Z
+DTEND:20251106T153000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca93727547854d74644dd54a26c7c420@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20251211T140000Z
+DTEND:20251211T153000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+BEGIN:VEVENT
+UID:422cea1273a225b93c04ffde5a03cfa1@gemeindekonkordia.church.tools
+DTSTAMP:20250806T090002Z
+LAST-MODIFIED:20250704T065654Z
+SUMMARY:Gott und die Welt Cafe
+DESCRIPTION:Senioren Cafe im CHD - Liebe Senioren\, wir laden Sie herzlich 
+ zu unserem Senioren Café ein\, wo Sie neue Freunde treffen\, interessante
+  Gespräche führen und sich von biblischen Impulsen inspirieren lassen k
+ önnen. Das Café wird vom CHD und der Gemeinde in der Konkordia gemeinsam
+  veranstaltet. Wir freuen uns auf euer kommen!
+LOCATION:Tagespflege Rebland (CHD)\, Steinbacher Str. 79\, Steinbach\, 7653
+ 4\, Baden Baden - Steinbach
+ORGANIZER:mailto:noreply@churchtools.de
+DTSTART:20250710T130000Z
+DTEND:20250710T143000Z
+SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+END:VEVENT
+END:VCALENDAR
