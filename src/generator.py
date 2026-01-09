@@ -36,6 +36,7 @@ class Config:
     # Assets
     HINTERGRUND_URL = "https://storage2.snappages.site/S74RKH/assets/files/hintergrund_Termine.jpg"
     QR_CODE_URL = "https://storage2.snappages.site/S74RKH/assets/files/QR_news.png"
+    QR_CODE_LOCAL = "QR_Folien.jpg"  # Lokaler QR-Code
 
     # Layout
     WIDTH = 1920
@@ -125,7 +126,21 @@ class AssetManager:
 
     def _load_qr_code(self):
         """Lädt oder generiert QR-Code"""
-        # Versuche zuerst von URL zu laden
+        # Versuche zuerst lokalen QR_Folien.jpg zu laden
+        local_qr_path = Path(Config.QR_CODE_LOCAL)
+        if local_qr_path.exists():
+            try:
+                logger.info(f"Lade lokalen QR-Code von {local_qr_path}")
+                self.qr_code = Image.open(local_qr_path)
+                self.qr_code = self.qr_code.resize((Config.QR_SIZE, Config.QR_SIZE), Image.Resampling.LANCZOS)
+                if self.qr_code.mode != 'RGBA':
+                    self.qr_code = self.qr_code.convert('RGBA')
+                logger.info("Lokaler QR-Code erfolgreich geladen")
+                return
+            except Exception as e:
+                logger.warning(f"Fehler beim Laden des lokalen QR-Codes: {e}")
+
+        # Fallback: Versuche von URL zu laden
         try:
             logger.info(f"Lade QR-Code von {Config.QR_CODE_URL}")
             response = requests.get(Config.QR_CODE_URL, timeout=10)
@@ -139,21 +154,7 @@ class AssetManager:
         except Exception as e:
             logger.warning(f"Fehler beim Laden des QR-Codes: {e}")
 
-        # Versuche lokalen QR-Code zu laden
-        local_qr_path = Path("assets/QR_news.png")
-        if local_qr_path.exists():
-            try:
-                logger.info(f"Lade lokalen QR-Code von {local_qr_path}")
-                self.qr_code = Image.open(local_qr_path)
-                self.qr_code = self.qr_code.resize((Config.QR_SIZE, Config.QR_SIZE), Image.Resampling.LANCZOS)
-                if self.qr_code.mode != 'RGBA':
-                    self.qr_code = self.qr_code.convert('RGBA')
-                logger.info("Lokaler QR-Code erfolgreich geladen")
-                return
-            except Exception as e:
-                logger.warning(f"Fehler beim Laden des lokalen QR-Codes: {e}")
-
-        # Generiere QR-Code
+        # Fallback: Generiere QR-Code
         try:
             logger.info("Generiere QR-Code für Gemeinde-Website")
             qr = qrcode.QRCode(
@@ -170,10 +171,7 @@ class AssetManager:
             qr_img = qr_img.convert('RGBA')
             self.qr_code = qr_img.resize((Config.QR_SIZE, Config.QR_SIZE), Image.Resampling.LANCZOS)
 
-            # Speichere generierten QR-Code für zukünftige Verwendung
-            local_qr_path.parent.mkdir(exist_ok=True)
-            qr_img.save(local_qr_path, 'PNG')
-            logger.info("QR-Code erfolgreich generiert und gespeichert")
+            logger.info("QR-Code erfolgreich generiert")
         except Exception as e:
             logger.error(f"Fehler beim Generieren des QR-Codes: {e}")
             self.qr_code = None
