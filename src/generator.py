@@ -418,7 +418,7 @@ class SlideGenerator:
         return y
 
     def _draw_footer(self, img: Image.Image, draw: ImageDraw.Draw, event: Dict):
-        """Zeichnet weißen Footer mit Details und QR-Code (neues Layout)"""
+        """Zeichnet weißen Footer mit Details und QR-Code (zentriertes Layout)"""
         footer_y = Config.HEIGHT - Config.FOOTER_HEIGHT
 
         # Hellgrauer Footer-Hintergrund (wie im Screenshot)
@@ -444,26 +444,26 @@ class SlideGenerator:
         # Y-Position für zentrierten Content
         y = footer_y + 30
 
-        # 1. Wochentag (zentriert, kleinere Schrift)
-        self._draw_left_aligned_text(draw, wochentag, Config.FOOTER_PADDING, y, font_wochentag, Config.SCHWARZ)
+        # 1. Wochentag (zentriert im verfügbaren Bereich)
+        self._draw_centered_text_in_width(draw, wochentag, 0, content_width, y, font_wochentag, Config.SCHWARZ)
         y += 50
 
         # 2. Datum (zentriert, sehr große Schrift)
-        self._draw_left_aligned_text(draw, datum, Config.FOOTER_PADDING, y, font_datum, Config.SCHWARZ)
+        self._draw_centered_text_in_width(draw, datum, 0, content_width, y, font_datum, Config.SCHWARZ)
         y += 95
 
         # 3. Uhrzeit mit Icon
         if time_str:
             # Unicode Clock Icon
             time_text = f"🕐 {time_str}"
-            self._draw_left_aligned_text(draw, time_text, Config.FOOTER_PADDING, y, font_details, Config.SCHWARZ)
+            self._draw_centered_text_in_width(draw, time_text, 0, content_width, y, font_details, Config.SCHWARZ)
             y += 48
 
         # 4. Ort mit Icon (gekürzt falls zu lang)
         if location_str:
             location_str = self._truncate_text(location_str, font_details, content_width - Config.FOOTER_PADDING, draw)
             location_text = f"📍 {location_str}"
-            self._draw_left_aligned_text(draw, location_text, Config.FOOTER_PADDING, y, font_details, Config.SCHWARZ)
+            self._draw_centered_text_in_width(draw, location_text, 0, content_width, y, font_details, Config.SCHWARZ)
 
         # QR-Code (rechts im Footer, zentriert vertikal)
         if self.assets.qr_code:
@@ -550,6 +550,13 @@ class SlideGenerator:
         bbox = draw.textbbox((0, 0), text, font=font)
         text_width = bbox[2] - bbox[0]
         x = (Config.WIDTH - text_width) // 2
+        draw.text((x, y), text, font=font, fill=color)
+
+    def _draw_centered_text_in_width(self, draw: ImageDraw.Draw, text: str, x_start: int, width: int, y: int, font: ImageFont.FreeTypeFont, color):
+        """Zeichnet Text zentriert innerhalb einer bestimmten Breite"""
+        bbox = draw.textbbox((0, 0), text, font=font)
+        text_width = bbox[2] - bbox[0]
+        x = x_start + (width - text_width) // 2
         draw.text((x, y), text, font=font, fill=color)
 
     def _draw_left_aligned_text(self, draw: ImageDraw.Draw, text: str, x: int, y: int, font: ImageFont.FreeTypeFont, color):
