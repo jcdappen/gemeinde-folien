@@ -15,6 +15,7 @@ from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from icalendar import Calendar
 from dateutil import tz
+import qrcode
 
 # Logging Setup
 logging.basicConfig(
@@ -123,19 +124,58 @@ class AssetManager:
             self.background = self._create_fallback_background()
 
     def _load_qr_code(self):
-        """Lädt QR-Code"""
+        """Lädt oder generiert QR-Code"""
+        # Versuche zuerst von URL zu laden
         try:
             logger.info(f"Lade QR-Code von {Config.QR_CODE_URL}")
             response = requests.get(Config.QR_CODE_URL, timeout=10)
             response.raise_for_status()
             self.qr_code = Image.open(BytesIO(response.content))
             self.qr_code = self.qr_code.resize((Config.QR_SIZE, Config.QR_SIZE), Image.Resampling.LANCZOS)
-            # Konvertiere zu RGBA falls nötig
             if self.qr_code.mode != 'RGBA':
                 self.qr_code = self.qr_code.convert('RGBA')
             logger.info("QR-Code erfolgreich geladen")
+            return
         except Exception as e:
             logger.warning(f"Fehler beim Laden des QR-Codes: {e}")
+
+        # Versuche lokalen QR-Code zu laden
+        local_qr_path = Path("assets/QR_news.png")
+        if local_qr_path.exists():
+            try:
+                logger.info(f"Lade lokalen QR-Code von {local_qr_path}")
+                self.qr_code = Image.open(local_qr_path)
+                self.qr_code = self.qr_code.resize((Config.QR_SIZE, Config.QR_SIZE), Image.Resampling.LANCZOS)
+                if self.qr_code.mode != 'RGBA':
+                    self.qr_code = self.qr_code.convert('RGBA')
+                logger.info("Lokaler QR-Code erfolgreich geladen")
+                return
+            except Exception as e:
+                logger.warning(f"Fehler beim Laden des lokalen QR-Codes: {e}")
+
+        # Generiere QR-Code
+        try:
+            logger.info("Generiere QR-Code für Gemeinde-Website")
+            qr = qrcode.QRCode(
+                version=1,
+                error_correction=qrcode.constants.ERROR_CORRECT_L,
+                box_size=10,
+                border=2,
+            )
+            qr.add_data('https://gemeinde-konkordia.de')  # URL der Gemeinde-Website
+            qr.make(fit=True)
+
+            # Erstelle QR-Code Bild
+            qr_img = qr.make_image(fill_color="black", back_color="white")
+            qr_img = qr_img.convert('RGBA')
+            self.qr_code = qr_img.resize((Config.QR_SIZE, Config.QR_SIZE), Image.Resampling.LANCZOS)
+
+            # Speichere generierten QR-Code für zukünftige Verwendung
+            local_qr_path.parent.mkdir(exist_ok=True)
+            qr_img.save(local_qr_path, 'PNG')
+            logger.info("QR-Code erfolgreich generiert und gespeichert")
+        except Exception as e:
+            logger.error(f"Fehler beim Generieren des QR-Codes: {e}")
             self.qr_code = None
 
     def _create_fallback_background(self) -> Image.Image:
